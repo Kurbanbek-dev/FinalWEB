@@ -20,7 +20,7 @@ p{
 }
 
 body{
-   background-color:#FEE715FF;
+   background-color:#ff0000;
 }
 
 .wheel{
@@ -30,7 +30,7 @@ body{
     align-items: center;
     height: 100vh;
     overflow: hidden;
-    background-color: #FEE715FF;
+    background-color: #ff0000;
     background-size: cover;
 }
 
