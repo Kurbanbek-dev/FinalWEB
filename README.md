@@ -14,3 +14,6 @@ We want them to be rewarded with prizes and motivated in their studies.
 
 ##### Screenshot
 ![descr](https://i.imgur.com/yFjh6ei.png)
+
+## Feedback
+https://drive.google.com/file/d/15RHDvGfp3-Ls0kZ4hB1bnDPrnzWr6tiC/view?usp=sharing
